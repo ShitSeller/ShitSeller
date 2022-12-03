@@ -10,5 +10,5 @@
 </div>
 
 <div id="NIGER" align="center">
-  <img src="" width="100"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbestmemes.ucoz.net%2Fnews%2Fposhjol_nakhuj_chjort_ebuchij_doom%2F2021-08-14-1140&psig=AOvVaw1QootS_jm-3cmochCHseaG&ust=1670176280133000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCKjuwtaB3vsCFQAAAAAdAAAAABAD" width="100"/>
 </div>
